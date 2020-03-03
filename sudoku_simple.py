@@ -73,7 +73,6 @@ if __name__ == "__main__":
         [0, 0, 0, 8, 0, 0, 0, 7, 0]
     ]
 
-    backtracks = 0
     print("Base Grid:")
     print_sudoku(expert_grid)
     print("-" * 35)
